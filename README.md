@@ -101,12 +101,3 @@ cv2.destroyAllWindows()
 ## Notes
 - The application requires an active webcam.
 - Proper lighting and background contrast improve hand tracking performance.
-
-## Potential Improvements
-- Add gesture calibration for personalized threshold distances.
-- Implement additional features such as mute/unmute functionality.
-- Improve UI by adding a graphical volume indicator.
-
-## License
-This project is licensed under the MIT License. Feel free to use and modify it as needed.
-
